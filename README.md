@@ -15,3 +15,5 @@ If I have to choose something for quick and simple stuff, then it's either Pytho
 # Projects
 
 I make what I need or what seems like fun. That's all.
+
+![Abandon Project Meme](resources/abandonProjectMeme.png)
